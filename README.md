@@ -2,8 +2,9 @@
 ● **Un simple spammer de webhook para discord**
 
 # Como se inicia?
-
-**Simplemente colocando el comando**
+**Primero escribimos el comando: **
+``pip install requests``
+**Y despues el comando: **
 ``python3 tspammer.py``
 
 # Contacto
