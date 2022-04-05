@@ -8,4 +8,4 @@
 ``python3 tspammer.py``
 
 # Contacto
-**Discord: Negro100pesos#4439**
+**Discord: Negro100pesos#1234**
