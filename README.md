@@ -8,4 +8,4 @@
 ``python3 tspammer.py``
 
 # Contacto
-**Discord: Euronymou5#1234**
+**Discord: Euronymou5#3155**
